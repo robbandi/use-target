@@ -1,12 +1,25 @@
 {
   "name": "use-target",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Enable smooth scrolling to specific elements on a page.",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "react",
+    "hook",
+    "scrolling",
+    "smooth",
+    "scroll",
+    "navigation",
+    "ui",
+    "ux",
+    "web development",
+    "frontend",
+    "javascript"
+  ],
   "author": "Robin Naghshbandi",
   "license": "ISC"
 }
